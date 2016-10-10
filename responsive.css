@@ -1,0 +1,22 @@
+
+
+
+    @media only screen and (max-width: 550px) {
+
+      .project_name{
+        display: block;
+        text-align: left;
+      }
+  .appify{
+    width: 100vw;
+    order: 0;
+  }
+  .sunflower{
+    width: 100vw;
+    order: 1;
+  }
+  .bokeh{
+    width: 100vw;
+    order: 2;
+  }
+}
